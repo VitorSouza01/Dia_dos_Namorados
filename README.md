@@ -15,7 +15,7 @@ O segundo código usa a biblioteca turtle. Uma nova janela ira aparecer e o prog
 
 
 Fonte lilizok4: https://www.instagram.com/reel/CsoOKiuN7qz/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
-Fonte lilizok4: https://www.instagram.com/reel/Cs9dG_5AvXJ/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
+<br>Fonte lilizok4: https://www.instagram.com/reel/Cs9dG_5AvXJ/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==
 
 ## 🖥️ Tecnologia Utilizada
 - Python
